@@ -1,1 +1,0 @@
-changed overflow:scroll to overflow:hidden in index.css at line 143 and line 58
